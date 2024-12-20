@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Hamdouni</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dopeamin&label=Profile%20views&color=0e75b6&style=flat" alt="dopeamin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dopeamin" alt="dopeamin" /></a> </p>
 
-- 🔭 I’m currently working with **MVST.CO**
+- 🔭 I’m currently working with **Corbado**
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://dopeamin.github.io/Portfolio/](https://dopeamin.github.io/Portfolio/)
-
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **hamdouni.medamin@gmail.com**
 
